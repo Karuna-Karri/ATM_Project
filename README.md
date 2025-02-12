@@ -38,7 +38,7 @@ This is a simple ATM simulation project built using Java Servlets and JSP. It pr
 7. Perform ATM operations like checking balance, deposit, withdraw, and mini statement.
 
  
-```
+
 
 ## Usage
 1. **Login Page** – Enter ATM number and PIN to access your account.
